@@ -1,0 +1,10 @@
+JDEV-Scripts.de entwickelt FiveM-Ressourcen, individuelle ESX-Lösungen und FiveM Props. Der Fokus liegt auf Qualität, Performance und Support.
+
+Hier können vom Betreiber bestätigte Informationen ergänzt werden:
+- Script-Namen und Funktionen
+- Installationsanleitungen
+- Kompatibilität und Anforderungen
+- Offizielle Support- und Kontaktwege
+- Häufige Fragen und Antworten
+
+WICHTIG: Noch nicht eingetragene Details sind unbekannt und dürfen nicht erfunden werden.
